@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on:<br>developing web apps to improve my personal skills in web development.<br><br><br>👯 I’m looking to collaborate on:<br>Open-source projects related to full-stack web development or mobile app development.<br><br>🤝 I’m looking for help with:<br>Enhancing my Quality Assurance skills and finding a QA internship.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, React.js, and Software Testing practices.<br><br>💬 Ask me about:<br>Full-stack development, mobile app development with Kotlin, or building efficient inventory management systems.<br><br>⚡ Fun fact:<br>I'm obsessed with linen outfits and have a knack for making my surroundings look like a scene from a song! 😄
+About Me:
+Full-stack learner with experience in React, Node.js, MongoDB, and UI/UX design. I enjoy creating clean interfaces, smooth user flows, and scalable solutions.
 
 
 
