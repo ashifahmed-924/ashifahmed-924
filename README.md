@@ -1,5 +1,5 @@
-About Me:
-Full-stack learner with experience in React, Node.js, MongoDB, and UI/UX design. I enjoy creating clean interfaces, smooth user flows, and scalable solutions.
+# About Me:
+Full-stack learner with experience in React, Node.js, MongoDB, and UI/UX design. <br/>I enjoy creating clean interfaces, smooth user flows, and scalable solutions.
 
 
 
